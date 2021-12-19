@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  margin: 0 auto;
+  height: 138px;
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    height: 100px;
+  }
+}

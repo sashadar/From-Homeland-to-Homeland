@@ -1,0 +1,9 @@
+.link-button {
+  width: 137px;
+  height: 48px;
+  background-color: #0278fe;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
