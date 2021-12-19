@@ -19,8 +19,9 @@ The project design and all needed data were provided by Figma tool. [Link to the
 
 **Additional Info**
 
-Image files are compressed to use in Web.
-External font files are legal and free. They are stored inside a project.
+- Image files are compressed to use in Web.
+- External font files are legal and free. They are stored inside a project.
+- [Link to the project on GitHub Pages][gitpages]
 
 **Next steps**
 
@@ -32,3 +33,4 @@ The project is far away from being finished and few improvements are planned in 
 [bemmeth]: https://en.bem.info/
 [seo]: https://developers.google.com/search/docs/beginner/seo-starter-guide
 [figma]: https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1
+[gitpages]: https://sashadar.github.io/web_project_3/
