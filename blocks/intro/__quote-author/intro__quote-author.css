@@ -1,0 +1,13 @@
+.intro__quote-author {
+  max-width: 720px;
+  margin: 10px 0 0;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: right;
+}
+
+@media screen and (max-width: 1032px) {
+  .intro__quote-author {
+    width: 100%;
+  }
+}

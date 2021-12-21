@@ -1,16 +1,16 @@
 .cover__invitation {
-  height: 254px;
   width: 656px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   margin: auto;
   align-items: center;
+  align-self: center;
+  z-index: 1;
 }
 
 @media screen and (max-width: 320px) {
   .cover__invitation {
     max-width: 288px;
-    max-height: 163px;
   }
 }
