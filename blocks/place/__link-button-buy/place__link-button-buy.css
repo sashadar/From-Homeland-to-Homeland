@@ -3,12 +3,6 @@
   width: 248px;
   height: 48px;
   grid-area: place__link-button-buy;
-  transition: background-color 0.3s ease;
-}
-
-.place__link-button-buy:hover {
-  background-color: #0063d2;
-  cursor: url("../../../images/mouse-cursor-hand.svg"), auto;
 }
 
 @media screen and (max-width: 568px) {

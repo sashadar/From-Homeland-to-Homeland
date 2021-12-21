@@ -12,4 +12,10 @@
   margin: 0;
   color: #ffffff;
   border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.link-button:hover {
+  background-color: #0063d2;
+  cursor: url("../../../images/mouse-cursor-hand.svg"), auto;
 }
