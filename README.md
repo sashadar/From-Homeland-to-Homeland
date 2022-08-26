@@ -1,5 +1,7 @@
 # Project 3: From Homeland to Homeland
 
+## [Link to GitHub Pages][gitpages]
+
 ### Overview
 
 - Intro
@@ -33,4 +35,4 @@ The project is far away from being finished and few improvements are planned in 
 [bemmeth]: https://en.bem.info/
 [seo]: https://developers.google.com/search/docs/beginner/seo-starter-guide
 [figma]: https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1
-[gitpages]: https://sashadar.github.io/web_project_3/
+[gitpages]: https://sashadar.github.io/From-Homeland-to-Homeland/
